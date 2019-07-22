@@ -1,5 +1,9 @@
 ﻿Module Module1
 
+#Region "Metodo Main"
+    ''' <summary>
+    ''' Problema 1. Pide tres números y muestra el mayor de todos
+    ''' </summary>
     Sub Main()
         Console.Title = "7- Problema 01"
 
@@ -26,5 +30,7 @@
 
         Console.ReadKey()
     End Sub
+#End Region
+
 
 End Module
