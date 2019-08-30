@@ -15,7 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problemas", "Problemas", "{
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IngresoSueldo", "IngresoSueldo\IngresoSueldo.vbproj", "{C5FC3A20-3EC9-4F4A-AE2C-94C1138D81D6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 - Estructuras condicionales simples y compuestas", "6 - Estructuras condicionales simples y compuestas", "{ECA9B3B4-8D5C-4897-9949-A0E82E95E031}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06 - Estructuras condicionales simples y compuestas", "06 - Estructuras condicionales simples y compuestas", "{ECA9B3B4-8D5C-4897-9949-A0E82E95E031}"
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NumeroMayor", "NumeroMayor\NumeroMayor.vbproj", "{289E0ECC-63D5-4953-A872-7B734F0AD9CD}"
 EndProject
@@ -29,13 +29,13 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Problema3", "Problema3\Prob
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problemas07", "Problemas07", "{5B75FFE1-35C9-4DD2-B949-3802BD2A036A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7 - Estructuras condicionales anidadas", "7 - Estructuras condicionales anidadas", "{341B0FD9-D887-46CF-AE41-DE5CF38222E7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07 - Estructuras condicionales anidadas", "07 - Estructuras condicionales anidadas", "{341B0FD9-D887-46CF-AE41-DE5CF38222E7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Errores sintácticos y lógicos", "4 - Errores sintácticos y lógicos", "{CA4E298D-0F55-42F8-9DD4-53A31A0021EB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Errores sintácticos y lógicos", "04 - Errores sintácticos y lógicos", "{CA4E298D-0F55-42F8-9DD4-53A31A0021EB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Estructura de programación secuencial", "5 - Estructura de programación secuencial", "{C0D0D99D-9C53-4713-8216-C65B5CD54C2B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 - Estructura de programación secuencial", "05 - Estructura de programación secuencial", "{C0D0D99D-9C53-4713-8216-C65B5CD54C2B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Codificación del diagrama de flujo", "3 - Codificación del diagrama de flujo", "{7E9FC828-28E0-4F97-B6EE-95570C8DDD2B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Codificación del diagrama de flujo", "03 - Codificación del diagrama de flujo", "{7E9FC828-28E0-4F97-B6EE-95570C8DDD2B}"
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PromedioTresNum", "PromedioTresNum\PromedioTresNum.vbproj", "{28194CA6-CC57-471A-B4DE-4D4B0E6F19B2}"
 EndProject
@@ -47,11 +47,13 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Problema03", "Problema03\Pr
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Problema04", "Problema04\Problema04.vbproj", "{A6D52906-59C8-48EF-AB32-969EB579C023}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8 - Estructuras condicionales con condiciones compuestas y operadores lógicos", "8 - Estructuras condicionales con condiciones compuestas y operadores lógicos", "{53306104-CB66-4683-B840-BC3608F4E801}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08 - Estructuras condicionales con condiciones compuestas y operadores lógicos", "08 - Estructuras condicionales con condiciones compuestas y operadores lógicos", "{53306104-CB66-4683-B840-BC3608F4E801}"
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MayorTresNumeros", "Tema08\MayorTresNumeros\MayorTresNumeros.vbproj", "{ED1F5486-1ECC-4B9F-B363-D8DA36BDD05D}"
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PrimerTrimestre", "PrimerTrimestre\PrimerTrimestre.vbproj", "{DB069F69-0E5B-4232-B9D4-7EF689562ABA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "15 - Estructura de datos tipo vector", "15 - Estructura de datos tipo vector", "{F287E919-6B57-423A-AE3C-E0ABA67D7AD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
