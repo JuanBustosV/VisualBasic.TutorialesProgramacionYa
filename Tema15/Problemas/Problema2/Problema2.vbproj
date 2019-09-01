@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B7E8B342-B1F7-4190-9248-CB5F6C6E225A}</ProjectGuid>
+    <ProjectGuid>{EE8FC417-A943-4049-94C7-B6D636CA33EB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Problema1.Module1</StartupObject>
-    <RootNamespace>Problema1</RootNamespace>
-    <AssemblyName>Problema1</AssemblyName>
+    <StartupObject>Problema2.Module1</StartupObject>
+    <RootNamespace>Problema2</RootNamespace>
+    <AssemblyName>Problema2</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>Console</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -22,7 +22,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>Problema1.xml</DocumentationFile>
+    <DocumentationFile>Problema2.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -32,7 +32,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>Problema1.xml</DocumentationFile>
+    <DocumentationFile>Problema2.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
